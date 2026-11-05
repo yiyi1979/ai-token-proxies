@@ -37,6 +37,11 @@
 | [**Pateway.AI**](https://pateway.ai/?aff=3MQKZ2XD) | Claude、Codex、DeepSeek、GPT、Xiaomi、Kimi、千问、智谱、MiniMax | 1. 通过我的链接注册可获得额外奖励。<br>2. 官方稳定渠道 5 折起，官方经济模式渠道 0.5 折起。<br>3. 注册即赠价值 $1 的体验额度。<br>4. 首购赠送价值 $3 的免费额度，充值越多赠送越多。 | 支付宝 / UnionPay / Diners Club / Discover / JCB / Mastercard / VISA |
 | [**LanoX**](https://lanox.ai/?inviteCode=HY819VCY&source=link) | 82 个模型：ChatGPT、Claude Code、千问、DeepSeek、GLM、Grok、Gemini、NVIDIA 免费版、MiniMax、Kimi、Xiaomi、免费模型、Lanox、HappyHorse、万相 | 1. 千问模型免费调用。<br>2. 按量计费，无月费、无订阅。<br>3. 邀请码：`HY819VCY`。 | 支付宝 / Mastercard / VISA / Apple Pay / Google Pay |
 | [**Hao.ai**](https://hao.ai/zh/invite/PTE8EAEP) | 24 个模型：Claude、GPT、Grok | 1. 相比官方参考价节省 85%，按量付费。<br>2. 通过我的链接注册，双方都会获得奖励。 | 加密货币 / 支付宝 / 微信 / 银行卡 |
+| [**88API Token聚合平台**](https://88api.ai/sign-up?aff=IODD) | 111 个模型：Claude、DeepSeek、GLM、GPT、Gemini、Grok、腾讯混元、Kimi、Midjourney、MiniMax、Qwen、Seedance、Xiaomi、Kling、豆包、Codex | 1. 香港企业运营。<br>2. 注册赠送余额。<br>3. 支持按量、按次、任务计费。 | 支付宝 / 支付宝全球 / 微信 / USDT / 银行卡 |
+| [**云渡**](https://yundu.lol/register?aff=FJKSALZKEECQ) | GPT、Claude、Grok、Gemini | 1. 充值加赠活动。 | 支付宝 / 微信 / 卡网 |
+| [**To-Tokens**](https://totokens.cc/register?aff=DZTXNJNX7B5Z) | GPT、Claude、Grok、Gemini | 1. 按量计费。<br>2. 充值加赠活动。 | 支付宝 / 微信 / 卡网 |
+| [**灵算**](https://www.lingsuan.si/register?invite_code=ZSV44DXB) | GPT、Claude、Grok、Gemini | 1. 充值加赠活动。<br>2. 提供 Codex 低价专区，宣传价格低至官方价格的 0.2 折。 | 支付宝 / 微信 / 卡网 |
+| [**ToolCode**](https://toolcode.cc/register?aff=247N3GSH7B8B) | GPT、Claude、Grok、Gemini | 1. 充值加赠活动。<br>2. 提供低价专区。 | 支付宝 |
 | [**ChatfireApi**](https://api.chatfire.cn/register?aff=PRKj) | Claude、Gemini、MiniMax、Kimi、GPT、Codex、Jev、Grok、智谱、Qwen、Hunyuan、MiMo、DeepSeek、Doubao | 1. 注册赠送免费测试额度。<br>2. 已稳定运行 1 年，承诺永久运营，超过 5 万客户。<br>3. 按量付费。 | 微信 / 汇款 |
 | [**MomoApi**](https://tryallapi.com/register?aff=1A3t) | 335 个模型：OpenAI、Anthropic、Gemini、智谱、通义千问、DeepSeek、讯飞星火、Midjourney、腾讯混元、xAI、Llama、豆包 | 1. 部分模型限时免费，充值有优惠。<br>2. 新用户注册送 $0.2 消费额度。<br>3. 已稳定运营 18 个月，拥有 10 万+客户。 | 信用卡 / 微信 / 支付宝 |
 | [**CCTK.ai**](https://cctk.ai/register?aff=SWU9JF9QJVZV) | Claude Code、DeepSeek、Gemini、GPT | 1. 按用量计费。<br>2. 支持 90 天内的退款申请。 | 微信 / 支付宝 / 信用卡 |
