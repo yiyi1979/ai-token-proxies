@@ -24,6 +24,7 @@
 
 | 平台名称 | 支持的模型 | 福利与特点 | 支付方式 |
 |---|---|---|---|
+|[**LMU AI · 灵眸**](https://api.lmuai.ai/g/6NnUYWKS)|126 个模型：Claude、Gemini、GPT、DeepSeek、MiniMax、Kimi、Qwen、GLM、Grok、MiMo、Seedance|1、首次付费赠¥2.00，通过我链接注册的付费用户可以在此基础上格外再赠送5%<br>2、支持 Claude Code、Cursor、Cline、Codex CLI、OpenCode、OpenClaw、TRAE、Roo Code 等 10+ 主流工具。<br>3、按量付费和月卡订阅<br>4、香港公司运营|微信 / 支付宝 / VISA / Mastercard / American Express / Discover / 银联|
 | [**HongMaCode**](https://hongmacc.com/?ref=HONGMACODE-F222A555) | 86 个模型：Claude、GPT、Gemini、Banana、DeepSeek、Kimi、Seedance、GLM、Grok、Doubao | 1. 国内 AI API 中转服务，无需科学上网。<br>2. 提供包月卡和额度卡两种计费方式。<br>3. API 调用方式和模型能力与官方一致，计费方式与官方一致，无倍率。<br>4. 通过我的链接注册，双方各获得 5% 的赠送额度。<br>5. 支持开发票。 | 支付宝 / 微信 |
 | [**PackyCode**](https://www.packyapi.com/register?aff=2Vec) | 79 个模型：Claude、Gemini、Muse、MiniMax、Kimi、GPT、Codex、Jev、Grok、GLM、Qwen、DeepSeek、MiMo | 1. 双 11 充值加赠 5%。<br>2. 首充额外赠送充值金额的 10%，最高赠送 $50。 | 支付宝 / 微信 / Visa / Mastercard / Cash App Pay |
 | [**Apilio.ai**](https://api.apilio.ai/register?aff=fjvX151646) | 877 个模型 | 1. 新用户可获得 0.2 试用额度。 | Alipay / AlipayHK / Alipay Stripe / Wxpay Stripe / Mastercard / Visa |
