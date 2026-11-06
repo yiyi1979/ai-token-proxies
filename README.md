@@ -24,21 +24,22 @@
 
 | 平台名称 | 支持的模型 | 福利与特点 | 支付方式 |
 |---|---|---|---|
-|[**LMU AI · 灵眸**](https://api.lmuai.ai/g/6NnUYWKS)|126 个模型：Claude、Gemini、GPT、DeepSeek、MiniMax、Kimi、Qwen、GLM、Grok、MiMo、Seedance|1、首次付费赠¥2.00，通过我链接注册的付费用户可以在此基础上格外再赠送5%<br>2、支持 Claude Code、Cursor、Cline、Codex CLI、OpenCode、OpenClaw、TRAE、Roo Code 等 10+ 主流工具。<br>3、按量付费和月卡订阅<br>4、香港公司运营|微信 / 支付宝 / VISA / Mastercard / American Express / Discover / 银联|
-| [**HongMaCode**](https://hongmacc.com/?ref=HONGMACODE-F222A555) | 86 个模型：Claude、GPT、Gemini、Banana、DeepSeek、Kimi、Seedance、GLM、Grok、Doubao | 1. 国内 AI API 中转服务，无需科学上网。<br>2. 提供包月卡和额度卡两种计费方式。<br>3. API 调用方式和模型能力与官方一致，计费方式与官方一致，无倍率。<br>4. 通过我的链接注册，双方各获得 5% 的赠送额度。<br>5. 支持开发票。 | 支付宝 / 微信 |
-| [**PackyCode**](https://www.packyapi.com/register?aff=2Vec) | 79 个模型：Claude、Gemini、Muse、MiniMax、Kimi、GPT、Codex、Jev、Grok、GLM、Qwen、DeepSeek、MiMo | 1. 双 11 充值加赠 5%。<br>2. 首充额外赠送充值金额的 10%，最高赠送 $50。 | 支付宝 / 微信 / Visa / Mastercard / Cash App Pay |
-| [**Apilio.ai**](https://api.apilio.ai/register?aff=fjvX151646) | 877 个模型 | 1. 新用户可获得 0.2 试用额度。 | Alipay / AlipayHK / Alipay Stripe / Wxpay Stripe / Mastercard / Visa |
-| [**Ephone.ai**](https://platform.ephone.ai/sign-up?aff=7VyNan) | 666 个模型 | 1. 通过我的链接注册，双方均可获得额度奖励。 | 支付宝 / 银行卡 |
-| [**Apikey.fan**](https://apikey.fan/register?aff=YRHJ2CFVQX7G) | Claude、ChatGPT、Grok、Gemini、Muse、智谱、Kimi、DeepSeek、MiniMax、Qwen、Hunyuan、MiMo、Jev | 1. 限时充值加赠，多充多送，双十一加赠活动。<br>2. 按量计费，无使用期限。 | USDT / 支付宝 / 微信 / Visa / Mastercard / Apple Pay 等 |
-| [**RightCode**](https://rightapi.io/register?aff=e483ad01) | Claude、GPT、Codex、Gemini、Banana、DeepSeek、Kimi、GLM、Grok、Jev、MiniMax | 1. 通过我的链接注册，首笔充值加赠 5%。<br>2. 支持开具国内发票。<br>3. 最低可充值 $1。 | 支付宝 |
-| [**Agent Router**](https://agentrouter.org/register?aff=Zokr) | 3 个模型：GPT、Claude | 1. 通过我的链接注册，可获得 $50 奖励。<br>2. 注册赠送 $100。 | 暂无 |
-| [**Cubence**](https://cubence.com/signup?code=SCFI3FG3) | 73 个模型：Claude、GPT、Codex、DeepSeek、Gemini、Kimi、Doubao、GLM、Google、Muse、MiniMax、Jev、Grok、Qwen | 1. 按量计费，无月度订阅。<br>2. 不定期举办抽奖活动。 | 支付宝 / 微信 / Visa / Mastercard / 国际信用卡 |
-| [**AI实验室**](https://www.openai-labs.com/register/?aff_code=KuO9) | 373 个模型：阿里巴巴、智谱、字节跳动、Anthropic、DeepSeek、Google、Moonshot、OpenAI、xAI | 1. 平台成立于 2025 年。<br>2. 按量付费。 | 支付宝 / 微信 |
-| [**Codex Everywhere**](https://codex-everywhere.com/home?aff=4JVHMZS2NX4T) | GPT、Claude、Grok、Gemini、DeepSeek | 1. 官方 OpenAI 价格的 3%。<br>2. 在 Telegram 上领取免费的 20 美元试用码。<br>3. 通过银行付款可返还 US$5。 | VISA / Mastercard / American Express / Discover / 支付宝 |
-| [**Pateway.AI**](https://pateway.ai/?aff=3MQKZ2XD) | Claude、Codex、DeepSeek、GPT、Xiaomi、Kimi、千问、智谱、MiniMax | 1. 通过我的链接注册可获得额外奖励。<br>2. 官方稳定渠道 5 折起，官方经济模式渠道 0.5 折起。<br>3. 注册即赠价值 $1 的体验额度。<br>4. 首购赠送价值 $3 的免费额度，充值越多赠送越多。 | 支付宝 / UnionPay / Diners Club / Discover / JCB / Mastercard / VISA |
-| [**LanoX**](https://lanox.ai/?inviteCode=HY819VCY&source=link) | 82 个模型：ChatGPT、Claude Code、千问、DeepSeek、GLM、Grok、Gemini、NVIDIA 免费版、MiniMax、Kimi、Xiaomi、免费模型、Lanox、HappyHorse、万相 | 1. 千问模型免费调用。<br>2. 按量计费，无月费、无订阅。<br>3. 邀请码：`HY819VCY`。 | 支付宝 / Mastercard / VISA / Apple Pay / Google Pay |
-| [**Hao.ai**](https://hao.ai/zh/invite/PTE8EAEP) | 24 个模型：Claude、GPT、Grok | 1. 相比官方参考价节省 85%，按量付费。<br>2. 通过我的链接注册，双方都会获得奖励。 | 加密货币 / 支付宝 / 微信 / 银行卡 |
-| [**88API Token聚合平台**](https://88api.ai/sign-up?aff=IODD) | 111 个模型：Claude、DeepSeek、GLM、GPT、Gemini、Grok、腾讯混元、Kimi、Midjourney、MiniMax、Qwen、Seedance、Xiaomi、Kling、豆包、Codex | 1. 香港企业运营。<br>2. 注册赠送余额。<br>3. 支持按量、按次、任务计费。 | 支付宝 / 支付宝全球 / 微信 / USDT / 银行卡 |
+|[**LMU AI · 灵眸**(推荐)](https://api.lmuai.ai/g/6NnUYWKS)|126 个模型：Claude、Gemini、GPT、DeepSeek、MiniMax、Kimi、Qwen、GLM、Grok、MiMo、Seedance|1、首次付费赠¥2.00，通过我链接注册的付费用户可以在此基础上格外再赠送5%<br>2、支持 Claude Code、Cursor、Cline、Codex CLI、OpenCode、OpenClaw、TRAE、Roo Code 等 10+ 主流工具。<br>3、按量付费和月卡订阅<br>4、香港公司运营|微信 / 支付宝 / VISA / Mastercard / American Express / Discover / 银联|
+|[**七牛云**(推荐)](https://s.qiniu.com/ZreIfe)|64 个模型，1 个免费： deepseek； glm；minimax；kimi；doubao；qwen；Kling；NVIDIA Nemotron；腾讯混元；vidu；mimo；SenseNova； |1、专注国产模型<br>2、注册成功即送 300 万免费 Token；完成剩余新手任务最高可领 2000 万免费 Token；<br>3、包月，包季，包年，低至 ¥99/月|支付宝，微信，对公汇款|
+| [**HongMaCode**(推荐)](https://hongmacc.com/?ref=HONGMACODE-F222A555) | 86 个模型：Claude、GPT、Gemini、Banana、DeepSeek、Kimi、Seedance、GLM、Grok、Doubao | 1. 国内 AI API 中转服务，无需科学上网。<br>2. 提供包月卡和额度卡两种计费方式。<br>3. API 调用方式和模型能力与官方一致，计费方式与官方一致，无倍率。<br>4. 通过我的链接注册，双方各获得 5% 的赠送额度。<br>5. 支持开发票。 | 支付宝 / 微信 |
+| [**PackyCode**(推荐)](https://www.packyapi.com/register?aff=2Vec) | 79 个模型：Claude、Gemini、Muse、MiniMax、Kimi、GPT、Codex、Jev、Grok、GLM、Qwen、DeepSeek、MiMo | 1. 双 11 充值加赠 5%。<br>2. 首充额外赠送充值金额的 10%，最高赠送 $50。 | 支付宝 / 微信 / Visa / Mastercard / Cash App Pay |
+| [**Apilio.ai**(推荐)](https://api.apilio.ai/register?aff=fjvX151646) | 877 个模型 | 1. 新用户可获得 0.2 试用额度。 | Alipay / AlipayHK / Alipay Stripe / Wxpay Stripe / Mastercard / Visa |
+| [**Ephone.ai**(推荐)](https://platform.ephone.ai/sign-up?aff=7VyNan) | 666 个模型 | 1. 通过我的链接注册，双方均可获得额度奖励。 | 支付宝 / 银行卡 |
+| [**Apikey.fan**(推荐)](https://apikey.fan/register?aff=YRHJ2CFVQX7G) | Claude、ChatGPT、Grok、Gemini、Muse、智谱、Kimi、DeepSeek、MiniMax、Qwen、Hunyuan、MiMo、Jev | 1. 限时充值加赠，多充多送，双十一加赠活动。<br>2. 按量计费，无使用期限。 | USDT / 支付宝 / 微信 / Visa / Mastercard / Apple Pay 等 |
+| [**RightCode**(推荐)](https://rightapi.io/register?aff=e483ad01) | Claude、GPT、Codex、Gemini、Banana、DeepSeek、Kimi、GLM、Grok、Jev、MiniMax | 1. 通过我的链接注册，首笔充值加赠 5%。<br>2. 支持开具国内发票。<br>3. 最低可充值 $1。 | 支付宝 |
+| [**Agent Router**(推荐)](https://agentrouter.org/register?aff=Zokr) | 3 个模型：GPT、Claude | 1. 通过我的链接注册，可获得 $50 奖励。<br>2. 注册赠送 $100。 | 暂无 |
+| [**Cubence**(推荐)](https://cubence.com/signup?code=SCFI3FG3) | 73 个模型：Claude、GPT、Codex、DeepSeek、Gemini、Kimi、Doubao、GLM、Google、Muse、MiniMax、Jev、Grok、Qwen | 1. 按量计费，无月度订阅。<br>2. 不定期举办抽奖活动。 | 支付宝 / 微信 / Visa / Mastercard / 国际信用卡 |
+| [**AI实验室**(推荐)](https://www.openai-labs.com/register/?aff_code=KuO9) | 373 个模型：阿里巴巴、智谱、字节跳动、Anthropic、DeepSeek、Google、Moonshot、OpenAI、xAI | 1. 平台成立于 2025 年。<br>2. 按量付费。 | 支付宝 / 微信 |
+| [**Codex Everywhere**(推荐)](https://codex-everywhere.com/home?aff=4JVHMZS2NX4T) | GPT、Claude、Grok、Gemini、DeepSeek | 1. 官方 OpenAI 价格的 3%。<br>2. 在 Telegram 上领取免费的 20 美元试用码。<br>3. 通过银行付款可返还 US$5。 | VISA / Mastercard / American Express / Discover / 支付宝 |
+| [**Pateway.AI**(推荐)](https://pateway.ai/?aff=3MQKZ2XD) | Claude、Codex、DeepSeek、GPT、Xiaomi、Kimi、千问、智谱、MiniMax | 1. 通过我的链接注册可获得额外奖励。<br>2. 官方稳定渠道 5 折起，官方经济模式渠道 0.5 折起。<br>3. 注册即赠价值 $1 的体验额度。<br>4. 首购赠送价值 $3 的免费额度，充值越多赠送越多。 | 支付宝 / UnionPay / Diners Club / Discover / JCB / Mastercard / VISA |
+| [**LanoX**(推荐)](https://lanox.ai/?inviteCode=HY819VCY&source=link) | 82 个模型：ChatGPT、Claude Code、千问、DeepSeek、GLM、Grok、Gemini、NVIDIA 免费版、MiniMax、Kimi、Xiaomi、免费模型、Lanox、HappyHorse、万相 | 1. 千问模型免费调用。<br>2. 按量计费，无月费、无订阅。<br>3. 邀请码：`HY819VCY`。 | 支付宝 / Mastercard / VISA / Apple Pay / Google Pay |
+| [**Hao.ai**(推荐)](https://hao.ai/zh/invite/PTE8EAEP) | 24 个模型：Claude、GPT、Grok | 1. 相比官方参考价节省 85%，按量付费。<br>2. 通过我的链接注册，双方都会获得奖励。 | 加密货币 / 支付宝 / 微信 / 银行卡 |
+| [**88API Token聚合平台**(推荐)](https://88api.ai/sign-up?aff=IODD) | 111 个模型：Claude、DeepSeek、GLM、GPT、Gemini、Grok、腾讯混元、Kimi、Midjourney、MiniMax、Qwen、Seedance、Xiaomi、Kling、豆包、Codex | 1. 香港企业运营。<br>2. 注册赠送余额。<br>3. 支持按量、按次、任务计费。 | 支付宝 / 支付宝全球 / 微信 / USDT / 银行卡 |
 | [**云渡**](https://yundu.lol/register?aff=FJKSALZKEECQ) | GPT、Claude、Grok、Gemini | 1. 充值加赠活动。 | 支付宝 / 微信 / 卡网 |
 | [**To-Tokens**](https://totokens.cc/register?aff=DZTXNJNX7B5Z) | GPT、Claude、Grok、Gemini | 1. 按量计费。<br>2. 充值加赠活动。 | 支付宝 / 微信 / 卡网 |
 | [**灵算**](https://www.lingsuan.si/register?invite_code=ZSV44DXB) | GPT、Claude、Grok、Gemini | 1. 充值加赠活动。<br>2. 提供 Codex 低价专区，宣传价格低至官方价格的 0.2 折。 | 支付宝 / 微信 / 卡网 |
