@@ -40,6 +40,7 @@
 | [**LanoX**(推荐)](https://lanox.ai/?inviteCode=HY819VCY&source=link) | 82 个模型：ChatGPT、Claude Code、千问、DeepSeek、GLM、Grok、Gemini、NVIDIA 免费版、MiniMax、Kimi、Xiaomi、免费模型、Lanox、HappyHorse、万相 | 1. 千问模型免费调用。<br>2. 按量计费，无月费、无订阅。<br>3. 邀请码：`HY819VCY`。 | 支付宝 / Mastercard / VISA / Apple Pay / Google Pay |
 | [**Hao.ai**(推荐)](https://hao.ai/zh/invite/PTE8EAEP) | 24 个模型：Claude、GPT、Grok | 1. 相比官方参考价节省 85%，按量付费。<br>2. 通过我的链接注册，双方都会获得奖励。 | 加密货币 / 支付宝 / 微信 / 银行卡 |
 | [**88API Token聚合平台**(推荐)](https://88api.ai/sign-up?aff=IODD) | 111 个模型：Claude、DeepSeek、GLM、GPT、Gemini、Grok、腾讯混元、Kimi、Midjourney、MiniMax、Qwen、Seedance、Xiaomi、Kling、豆包、Codex | 1. 香港企业运营。<br>2. 注册赠送余额。<br>3. 支持按量、按次、任务计费。 | 支付宝 / 支付宝全球 / 微信 / USDT / 银行卡 |
+| [**FlyRouter**(推荐)](https://flyrouter.ai/?aff=ISA2) | 105 个模型：claude；gemini；gpt；veo3；Banana；deepseek；banana；grok；flux2；Banana；happyhorse；qwen；wan，腾讯混元；kling；muse；pixverse；seedance；skyreels；vidu | 1. 按量付费。<br>2.低至 1 折。<br> | 微信、支付宝、加密货币；VISA、Mastercard；American Express；Discover，银联 |
 | [**云渡**](https://yundu.lol/register?aff=FJKSALZKEECQ) | GPT、Claude、Grok、Gemini | 1. 充值加赠活动。 | 支付宝 / 微信 / 卡网 |
 | [**To-Tokens**](https://totokens.cc/register?aff=DZTXNJNX7B5Z) | GPT、Claude、Grok、Gemini | 1. 按量计费。<br>2. 充值加赠活动。 | 支付宝 / 微信 / 卡网 |
 | [**灵算**](https://www.lingsuan.si/register?invite_code=ZSV44DXB) | GPT、Claude、Grok、Gemini | 1. 充值加赠活动。<br>2. 提供 Codex 低价专区，宣传价格低至官方价格的 0.2 折。 | 支付宝 / 微信 / 卡网 |
